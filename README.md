@@ -3,6 +3,8 @@ Study of the Ising model using Montecarlo and Markov chains. We study this model
 
 We are able to find important information. such as critical exponents and how energy or magnetization depends on the size and temperature.
 
+We are using sizes of 8x8, 16x16, 32x32 and 64x64.
+
 # Compilation and execution of the program
 This program was written in _Fortran_ 77 and the graphics were plotted with _Gnuplot_.
 ## Linux and Mac
